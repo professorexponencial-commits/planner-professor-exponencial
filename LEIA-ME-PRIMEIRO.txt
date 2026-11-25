@@ -1,0 +1,16 @@
+KIT DE PUBLICAÇÃO — PLANNER PROFESSOR EXPONENCIAL
+
+1. Extraia este ZIP no computador.
+2. Abra https://github.com/new e crie o repositório planner-professor-exponencial, público, com README.
+3. Envie somente o arquivo GITHUB/index.html à raiz do repositório (não envie a pasta GITHUB nem o ZIP).
+   https://github.com/professorexponencial-commits/planner-professor-exponencial/upload/main
+4. Confirme Commit changes.
+5. Acesse https://github.com/professorexponencial-commits/planner-professor-exponencial/settings/pages
+   Source: Deploy from a branch; Branch: main; Folder: / (root); Save.
+6. Após a publicação, teste https://professorexponencial-commits.github.io/planner-professor-exponencial/
+7. Abra HOTMART/03_PREVIA_HOTMART_PLANNER.html para conferir. Copie todo o TXT 01 no editor de código-fonte da aula. Salve e teste como aluno.
+
+Um único index responsivo atende celular, tablet e computador. Imagens incorporadas; não é necessário enviar arquivos de imagem separadamente.
+
+TESTES: Chromium, conteúdo carregado em memória com armazenamento simulado, larguras 320, 390, 768, 1024, 1440 px. Nove centrais navegadas sem transbordamento horizontal ou exceções JS; prévia também sem transbordamento. A navegação direta foi bloqueada pelo ambiente. Não valida armazenamento real, Safari/iOS, impressora, downloads, Google Agenda externo ou renderização no editor Hotmart. Teste antes de liberar.
+PDFs previstos em A4. Faça backup antes de atualizar. GitHub Pages público não impede compartilhamento do link; aviso de uso individual não constitui autenticação.
